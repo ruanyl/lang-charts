@@ -1,0 +1,22 @@
+{
+  "name": "lang-charts",
+  "version": "0.0.1",
+  "description": "yet another langchain ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanyl/lang-charts.git"
+  },
+  "keywords": [
+    "langchain"
+  ],
+  "author": "Yulong Ruan <ruanyu1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruanyl/lang-charts/issues"
+  },
+  "homepage": "https://github.com/ruanyl/lang-charts#readme"
+}
